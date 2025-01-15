@@ -17,7 +17,7 @@ To control filtering in the Grid, use the `filterable` property.
 The Grid enables you to implement the following filter options:
 * [Header row filtering](#filtering-by-rows)
 * [Filtering by checkboxes](#filtering-by-checkboxes)
-* [Custom menu filtering](#custom-mennu-filtering)
+* [Custom menu filtering](#custom-menu-filtering)
 
 ## Header Row Filtering  
 
